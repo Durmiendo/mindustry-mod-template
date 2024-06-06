@@ -1,0 +1,14 @@
+{
+  "main": "org.durmiendo.",
+  "name": "name",
+  "displayName": "displayName",
+  "author": "Durmiendo",
+  "repo": "Durmiendo/",
+  "subtitle": "subtitle",
+  "description": "description",
+  "version": "0.0",
+  "minGameVersion": "146",
+  "java": true,
+  "hidden": false,
+  "hideBrowser": true
+}
